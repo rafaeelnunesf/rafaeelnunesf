@@ -4,7 +4,7 @@ I'm Rafael, a web developer from Brazil.
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="CSS3" src="./assets/css3.svg">
+  <img alt="CSS3" src="./assets/css3.svg" style="color:#1572B6;width:16px">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
