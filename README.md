@@ -12,7 +12,7 @@ I'm Rafael, a web developer from Brazil.
 	<img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 </p>
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
-  <img alt="Teste" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+  <img alt="Teste" src="https://github-readme-stats.vercel.app/api?username=rafaeelnunesf&theme=blue-green" />
 
 <!--
 **rafaeelnunesf/rafaeelnunesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
