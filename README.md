@@ -13,8 +13,8 @@ I'm Rafael, a web developer from Brazil.
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Teste" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
 </p>
+  <img alt="Teste" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
 
 <!--
 **rafaeelnunesf/rafaeelnunesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
