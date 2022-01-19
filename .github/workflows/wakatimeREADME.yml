@@ -1,0 +1,17 @@
+# This is a basic workflow to help you get started with Actions
+
+name: WakaTime status update
+
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rafaeelnunesf/wakatimeREADME@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
