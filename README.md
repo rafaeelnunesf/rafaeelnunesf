@@ -31,7 +31,7 @@ I'm Rafael, a web developer from Brazil. 🙋🏽‍♂️
 
 </div>
 </p>
-<h3>Code data</3>
+<h3>Code data</h3>
 <p float="left">
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
 </p>
