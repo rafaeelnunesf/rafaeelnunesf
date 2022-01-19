@@ -1,18 +1,18 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Waka Readme
+name: WakaTime status update
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: rafaeelnunesf/waka-readme-stats@master
+      - uses: rafaeelnunesf/wakatimeREADME@master
         with:
-          WAKATIME_API_KEY: ${{ 60e38b9e-d00f-47c1-9d7d-eecc1e673a09 }}
+          WAKATIME_API_KEY: ${{ secrets.60e38b9e-d00f-47c1-9d7d-eecc1e673a09 }}
           GH_TOKEN: ${{ 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 }}
+          BRANCH: "main"
