@@ -34,6 +34,6 @@ I'm Rafael, a web developer from Brazil. 🙋🏽‍♂️
 <p float="left">
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
 </p>
-</div>
 
 <a href="https://wakatime.com/@1be029c5-9558-4e73-bdf9-69617860f1ae"><img src="https://wakatime.com/badge/user/1be029c5-9558-4e73-bdf9-69617860f1ae.svg" alt="Total time coded since Oct 5 2021" /></a>
+</div>
