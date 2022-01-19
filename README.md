@@ -34,9 +34,9 @@ I'm Rafael, a web developer from Brazil. 🙋🏽‍♂️
 <p float="left">
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
 </p>
-
-
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@rafaeelnunes/888b470a-3dd5-4f72-a9ca-7b8a724fabb5.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@rafaeelnunes/a21df7f1-7fe5-4d27-ae70-a386eb76bdfe.svg"></embed></figure>
