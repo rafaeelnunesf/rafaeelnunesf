@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: rafaeelnunesf/wakatimeREADME@master
         with:
-          WAKATIME_API_KEY: ${{ 'secrets.60e38b9e-d00f-47c1-9d7d-eecc1e673a09' }}
-          GH_TOKEN: ${{ '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' }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: "main"
