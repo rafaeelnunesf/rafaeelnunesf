@@ -12,11 +12,12 @@ I'm Rafael, a web developer from Brazil. 🙋🏽‍♂️
 	And I also like to play guitar in my spare time :) 
 </p>
 
-
 <h3>Things I code with</h3>
 <p>
 	<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Express.js"src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="Node.js"src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,4 +38,5 @@ I'm Rafael, a web developer from Brazil. 🙋🏽‍♂️
 </p>
 
 <a href="https://wakatime.com/@1be029c5-9558-4e73-bdf9-69617860f1ae"><img src="https://wakatime.com/badge/user/1be029c5-9558-4e73-bdf9-69617860f1ae.svg" alt="Total time coded since Oct 5 2021" /></a>
+
 </div>
