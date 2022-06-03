@@ -63,7 +63,7 @@
 			<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 	</div>
 	<div>
-		<h3 >Server</h3>
+		<summary>Server</summary>
 			<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 	</div>
 	<div>
