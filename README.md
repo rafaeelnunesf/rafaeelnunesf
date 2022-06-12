@@ -21,7 +21,7 @@
 	
 </ul>
 
-<summary style="font-size: 20px" >Things I code with</summary>
+<h2 style="font-size: 20px" >Things I code with</h2>
 
 <ul align="left">
 	<div>
@@ -83,7 +83,7 @@
 </div>
 </p>
 
-<summary style="font-size: 20px">Code stats</summary>
+<h2 style="font-size: 20px">Code stats</h2>
 <div>
   <img height="205em" alt="rafaeelnunesf stats" src="https://github-readme-stats.vercel.app/api?username=rafaeelnunesf&show_icons=true&hide_border=true&theme=github_dark" />
   <img height="205em" alt="rafaeelnunesf Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=github_dark" />
