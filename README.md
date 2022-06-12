@@ -21,7 +21,7 @@
 	
 </ul>
 
-<h2 style="font-size: 20px" >Things I code with</h2>
+<h3 style="font-size: 20px" >Things I code with</h3>
 
 <ul align="left">
 	<div>
