@@ -77,16 +77,19 @@
 <h3>How you can find me</h3>
 <div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafaelnunesferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nunes-ferreira/)](https://www.linkedin.com/in/rafaeelnunesf/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelnfsq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelnfsq@gmail.com)](mailto:rafaelnfsq@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-rafaelnunesferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nunes-ferreira/)](https://www.linkedin.com/in/rafaeelnunesf/)
 
 </div>
 </p>
 <details>
 <summary style="font-size: 20px">Code stats</summary>
-<p float="left">
-	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&theme=blue-green" />
-</p>
+<div float="left">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf&layout=compact)](https://github.com/rafaeelnunesf/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeelnunesf&show_icons=true&theme=dark)
+
+</div>
 
 <a href="https://wakatime.com/@1be029c5-9558-4e73-bdf9-69617860f1ae"><img src="https://wakatime.com/badge/user/1be029c5-9558-4e73-bdf9-69617860f1ae.svg" alt="Total time coded since Oct 5 2021" /></a>
 
