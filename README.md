@@ -20,7 +20,7 @@
 	</li>
 	
 </ul>
-<details>
+
 <summary style="font-size: 20px" >Things I code with</summary>
 
 <ul align="left">
