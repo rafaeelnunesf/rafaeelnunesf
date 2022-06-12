@@ -85,7 +85,6 @@
 <details>
 <summary style="font-size: 20px">Code stats</summary>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaeelnunesf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="rafaeelnunesf_contribution_streak" />
   <img height="205em" alt="rafaeelnunesf stats" src="https://github-readme-stats.vercel.app/api?username=rafaeelnunesf&show_icons=true&hide_border=true" />
   <img height="205em" alt="rafaeelnunesf Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeelnunesf" />
 </div>
