@@ -82,7 +82,7 @@
 
 </div>
 </p>
-<details>
+
 <summary style="font-size: 20px">Code stats</summary>
 <div>
   <img height="205em" alt="rafaeelnunesf stats" src="https://github-readme-stats.vercel.app/api?username=rafaeelnunesf&show_icons=true&hide_border=true&theme=github_dark" />
@@ -92,4 +92,3 @@
 <a href="https://wakatime.com/@1be029c5-9558-4e73-bdf9-69617860f1ae"><img src="https://wakatime.com/badge/user/1be029c5-9558-4e73-bdf9-69617860f1ae.svg" alt="Total time coded since Oct 5 2021" /></a>
 
 </div>
-</details>
