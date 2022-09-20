@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
 
-## I'm Rafael, full stack developer from Brazil. 🙋🏽‍♂️
+## I'm Rafael, Software Engineer from Brazil. 🙋🏽‍♂️
 
 <h2> Some things about me</h3>
 <ul align="start">
