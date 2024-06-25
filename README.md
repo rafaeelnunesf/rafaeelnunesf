@@ -84,7 +84,7 @@
 <div>
 
 [![Gmail Badge](https://img.shields.io/badge/-rafaelnfsq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelnfsq@gmail.com)](mailto:rafaelnfsq@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-rafaelnunesferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nunes-ferreira/)](https://www.linkedin.com/in/rafaeelnunesf/)
+[![Linkedin Badge](https://img.shields.io/badge/-rafaeelnunesf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeelnunesf/)](https://www.linkedin.com/in/rafaeelnunesf/)
 
 </div>
 </p>
