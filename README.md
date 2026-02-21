@@ -1,6 +1,6 @@
 <div align="start">
 
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
 
 ## I'm Rafael, Software Engineer from Brazil 🇧🇷
 
